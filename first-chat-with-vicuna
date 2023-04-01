@@ -9,45 +9,17 @@ The [α/Fe] versus [Fe/H] diagram is a graph used in astrophysics to show the ra
 their typically enhanced in [α/Fe] and stars of the Galactic stellar low-alpha disk (historically known as the Galactic stellar thin disk) having [α/Fe] as low as the Sun. It further allows to identify stars that are likely born at times or in environments very different to the stellar disk, typically metal-poor stars (with low [Fe/H] < -1) which likely belong to the stellar halo or accreted features.[1]
 The [α/Fe] versus [Fe/H] diagram is a graph used in astrophysics that shows the ratio of element abundances in stars. The x-axis shows the iron abundance compared to hydrogen, and the y-axis shows the abundance of alpha process elements compared to iron. The diagram is commonly used to assess the nucleosynthesis channels and evolution of star samples and is a tool for analyzing the population of stars in the Milky Way. The diagrams are normalized to the Sun, and stars in the Galactic stellar high-alpha disk (historically known as the Galactic stellar thick disk) are typically characterized by higher [α/Fe] ratios, while stars in the Galactic stellar low-alpha disk (historically known as the Galactic stellar thin disk) have [α/Fe] ratios similar to the Sun. Additionally, stars with low [Fe/H] (less than -1) are likely to be metal-poor and belong to the stellar halo or accreted features.
 
-Summarize: In calculus, the 
-�
-ε-
-�
-δ definition of a limit is an algebraically precise formulation of evaluating the limit of a function. Informally, the definition states that a limit 
-�
-L of a function at a point 
-�
-0
-x 
-0
-​
-  exists if no matter how 
-�
-0
-x 
-0
-​
-  is approached, the values returned by the function will always approach 
-�
+Summarize: In calculus, the ε-δ definition of a limit is an algebraically precise formulation of evaluating the limit of a function. Informally, the definition states that a limit L of a function at a point 0
+x 0 exists if no matter how 0 x   is approached, the values returned by the function will always approach 
+
 L. This definition is consistent with methods used to evaluate limits in elementary calculus, but the mathematically rigorous language associated with it appears in higher-level analysis. The 
-�
-ε-
-�
-δ definition is also useful when trying to show the continuity of a function.
+ε-δ definition is also useful when trying to show the continuity of a function.
 The ε-δ definition of a limit is a precise way of calculating limits in calculus. It states that a limit L of a function at a point x exists if, no matter how x is approached, the values returned by the function will always approach L. This definition is consistent with elementary calculus methods, but is more rigorous and is used in higher-level analysis. The ε-δ definition is useful for proving the continuity of a function.
 
-This section introduces the formal definition of a limit. Many refer to this as "the epsilon--delta,'' definition, referring to the letters  ϵ
-  and  δ
-  of the Greek alphabet.
+This section introduces the formal definition of a limit. Many refer to this as "the epsilon--delta,'' definition, referring to the letters ϵ and  δ of the Greek alphabet.
 
 Before we give the actual definition, let's consider a few informal ways of describing a limit. Given a function  y=f(x)
-  and an  x
- -value,  c
- , we say that "the limit of the function  f
- , as  x
-  approaches  c
- , is a value  L
- '':
+  and an  x-value,  c, we say that "the limit of the function  f, as x approaches c, is a value  L'':
 
 if " y
   tends to  L
