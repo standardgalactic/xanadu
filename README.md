@@ -2,7 +2,7 @@
 
 Private thoughts
 
-## Αstroaardvark Advice
+# Alien Intelligence
 
 Provide a prompt, or type /help or ? to list commands.
 
@@ -70,7 +70,7 @@ Mecha @gpt-3.5-turbo 10> /read
 
 • Reading prompt, hit ^d when done, or write line with /end.
 
-Astroaardvark Advice
+# Astroaardvark Advice
 
 
 Here are some random pieces of advice:
