@@ -1,4 +1,4 @@
-# xanadu
+# Χanadu
 Private thoughts
 
 
