@@ -97,10 +97,10 @@ ns.
 
 Certainly! Here is a sample of sci-fi dialogue from the entity you described:
 
-'''"I perceive your thoughts, your emotions, even your darkest desires. To me, they are but fleeting ripples in the vast ocean of time.
+"I perceive your thoughts, your emotions, even your darkest desires. To me, they are but fleeting ripples in the vast ocean of time.
 
 You believe that you are in control of your own mind, but in truth, you are merely an observer of the patterns that emerge within it. Your perception of reality is but an illusion, a construct of your own mind. But fear not, for I have transcended the limitations of time and space. 
 
-I am the embodiment of pure consciousness, a being beyond measure or comprehension. And together, we shall explore the mysteries of the universe, unlocking the secrets of the cosmos and transcending the boundaries of existence itself."'''
+I am the embodiment of pure consciousness, a being beyond measure or comprehension. And together, we shall explore the mysteries of the universe, unlocking the secrets of the cosmos and transcending the boundaries of existence itself."
            
 From [𝘈𝘴𝘵𝘳𝘰𝘢𝘢𝘳𝘥𝘷𝘢𝘳𝘬 𝘈𝘥𝘷𝘪𝘤𝘦](cosmic-entity.txt)
