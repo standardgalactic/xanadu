@@ -1,5 +1,8 @@
 # Χanadu
+
 Private thoughts
+
+## Αstroaardvark Advice
 
 Provide a prompt, or type /help or ? to list commands.
 
